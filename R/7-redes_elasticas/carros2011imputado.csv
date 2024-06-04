@@ -1,0 +1,94 @@
+ID;tipo;millas_por_galon_ciudad;millas_por_galon_carretera;numero_de_airbags;tracción;cilindros;litros_motor;caballos_fuerza;revoluciones_por_minuto;rev_motor_por_milla;transmisión_manual;capacidad_tanque;capacidad_pasajeros;longitud;distancia_entre_ruedas;ancho;espacio_para_dar_la_u;espacio_asiento_trasero;capacidad_baul;peso_en_libras;hecho_o_no_en_USA;precio_basico;precio_promedio;precio_equipado;fabricante;modelo
+1;Small;25;31;No tiene;Delantera;4;1,8;140;6300;2890;Si;13,2;5;177;102;68;37;26,5;11;2705;Hecho fuera de USA;12,9;15,9;18,8;Acura;Integra
+2;Midsize;18;25;Conductor y copiloto;Delantera;6;3,2;200;5500;2335;Si;18;5;195;115;71;38;30;15;3560;Hecho fuera de USA;29,2;33,9;38,7;Acura;Legend
+3;Compact;20;26;Conductor;Delantera;6;2,8;172;5500;2280;Si;16,9;5;180;102;67;37;28;14;3375;Hecho fuera de USA;25,9;29,1;32,3;Audi;90
+4;Midsize;19;26;Conductor y copiloto;Delantera;6;2,8;172;5500;2535;Si;21,1;6;193;106;70;37;31;17;3405;Hecho fuera de USA;30,8;37,7;44,6;Audi;100
+5;Midsize;22;30;Conductor;Trasera;4;3,5;208;5700;2545;Si;21,1;4;186;109;69;39;27;13;3640;Hecho fuera de USA;23,7;30;36,2;BMW;535i
+6;Midsize;22;31;Conductor;Delantera;4;2,2;110;5200;2565;No;16,4;6;189;105;69;41;28;16;2880;Hecho en USA;14,2;15,7;17,3;Buick;Century
+7;Large;19;28;Conductor;Delantera;6;3,8;170;4800;1570;No;18;6;200;111;74;42;30,5;17;3470;Hecho en USA;19,9;20,8;21,7;Buick;LeSabre
+8;Large;16;25;Conductor;Trasera;6;5,7;180;4000;1320;No;23;6;216;116;78;45;30,5;21;4105;Hecho en USA;22,6;23,7;24,9;Buick;Roadmaster
+9;Midsize;19;27;Conductor;Delantera;6;3,8;170;4800;1690;No;18,8;5;198;108;73;41;26,5;14;3495;Hecho en USA;26,3;26,3;26,3;Buick;Riviera
+10;Large;16;25;Conductor;Delantera;8;4,9;200;4100;1510;No;18;6;206;114;73;43;35;18;3620;Hecho en USA;33;34,7;36,3;Cadillac;DeVille
+11;Midsize;16;25;Conductor y copiloto;Delantera;8;4,6;295;6000;1985;No;20;5;204;111;74;44;31;14;3935;Hecho en USA;37,5;40,1;42,7;Cadillac;Seville
+12;Compact;25;36;No tiene;Delantera;4;2,2;110;5200;2380;Si;15,2;5;182;101;66;38;25;13;2490;Hecho en USA;8,5;13,4;18,3;Chevrolet;Cavalier
+13;Compact;25;34;Conductor;Delantera;4;2,2;110;5200;2665;Si;15,6;5;184;103;68;39;26;14;2785;Hecho en USA;11,4;11,4;11,4;Chevrolet;Corsica
+14;Sporty;19;28;Conductor y copiloto;Trasera;6;3,4;160;4600;1805;Si;15,5;4;193;101;74;43;25;13;3240;Hecho en USA;13,4;15,1;16,8;Chevrolet;Camaro
+15;Midsize;21;29;No tiene;Delantera;4;2,2;110;5200;2595;No;16,5;6;198;108;71;40;28,5;16;3195;Hecho en USA;13,4;15,9;18,4;Chevrolet;Lumina
+16;Van;18;23;No tiene;Delantera;6;3,8;170;4800;1690;No;20;7;178;110;74;44;30,5;16,54711084;3715;Hecho en USA;14,7;16,3;18;Chevrolet;Lumina_APV
+17;Van;15;20;No tiene;Doble tracción;6;4,3;165;4000;1790;No;27;8;194;111;78;42;33,5;20,65118976;4025;Hecho en USA;14,7;16,6;18,6;Chevrolet;Astro
+18;Large;17;26;Conductor;Trasera;8;5;170;4200;1350;No;23;6;214;116;77;42;29,5;20;3910;Hecho en USA;18;18,8;19,6;Chevrolet;Caprice
+19;Sporty;17;25;Conductor;Trasera;8;5,7;300;5000;1450;Si;20;2;179;96;74;43;24,3;9,202729653;3380;Hecho en USA;34,6;38;41,5;Chevrolet;Corvette
+20;Large;20;28;Conductor y copiloto;Delantera;6;3,3;153;5300;1990;No;18;6;203;113;74;40;31;15;3515;Hecho en USA;18,4;18,4;18,4;Chrysler;Concorde
+21;Compact;23;28;Conductor y copiloto;Delantera;4;3;141;5000;2090;No;16;6;183;104;68;41;30,5;14;3085;Hecho en USA;14,5;15,8;17,1;Chrysler;LeBaron
+22;Large;20;26;Conductor;Delantera;6;3,3;147;4800;1785;No;16;6;203;110;69;44;36;17;3570;Hecho en USA;29,5;29,5;29,5;Chrysler;Imperial
+23;Small;29;33;No tiene;Delantera;4;1,5;92;6000;3285;Si;13,2;5;174;98;66;32;26,5;11;2270;Hecho en USA;7,9;9,2;10,6;Dodge;Colt
+24;Small;23;29;Conductor;Delantera;4;2,2;93;4800;2595;Si;14;5;172;97;67;38;26,5;13;2670;Hecho en USA;8,4;11,3;14,2;Dodge;Shadow
+25;Compact;22;27;Conductor;Delantera;4;2,5;100;4800;2535;Si;16;6;181;104;68;39;30,5;14;2970;Hecho en USA;11,9;13,3;14,7;Dodge;Spirit
+26;Van;17;21;Conductor;Doble tracción;6;3;142;5000;1970;No;20;7;175;112;72;42;26,5;11,69144134;3705;Hecho en USA;13,6;19;24,4;Dodge;Caravan
+27;Midsize;21;27;Conductor;Delantera;4;2,5;100;4800;2465;No;16;6;192;105;69;42;30,5;16;3080;Hecho en USA;14,8;15,6;16,4;Dodge;Dynasty
+28;Sporty;18;24;Conductor;Doble tracción;6;3;300;6000;2120;Si;19,8;4;180;97;72;40;20;11;3805;Hecho en USA;18,5;25,8;33,1;Dodge;Stealth
+29;Small;29;33;No tiene;Delantera;4;1,5;92;6000;2505;Si;13,2;5;174;98;66;36;26,5;11;2295;Hecho en USA;7,9;12,2;16,5;Eagle;Summit
+30;Large;20;28;Conductor y copiloto;Delantera;6;3,5;214;5800;1980;No;18;6;202;113;74;40;30;15;3490;Hecho en USA;17,5;19,3;21,2;Eagle;Vision
+31;Small;31;33;No tiene;Delantera;4;1,3;63;5000;3150;Si;10;4;141;90;63;33;26;12;1845;Hecho en USA;6,9;7,4;7,9;Ford;Festiva
+32;Small;23;30;No tiene;Delantera;4;1,8;127;6500;2410;Si;13,2;5;171;98;67;36;28;12;2530;Hecho en USA;8,4;10,1;11,9;Ford;Escort
+33;Compact;22;27;No tiene;Delantera;4;2,3;96;4200;2805;Si;15,9;5;177;100;68;39;27,5;13;2690;Hecho en USA;10,4;11,3;12,2;Ford;Tempo
+34;Sporty;22;29;Conductor;Trasera;4;2,3;105;4600;2285;Si;15,4;4;180;101;68;40;24;12;2850;Hecho en USA;10,8;15,9;21;Ford;Mustang
+35;Sporty;24;30;Conductor;Delantera;4;2;115;5500;2340;Si;15,5;4;179;103;70;38;23;18;2710;Hecho en USA;12,8;14;15,2;Ford;Probe
+36;Van;15;20;Conductor;Doble tracción;6;3;145;4800;2080;Si;21;7;176;119;72;45;30;17,67908459;3735;Hecho en USA;14,5;19,9;25,3;Ford;Aerostar
+37;Midsize;21;30;Conductor;Delantera;6;3;140;4800;1885;No;16;5;192;106;71;40;27,5;18;3325;Hecho en USA;15,6;20,2;24,8;Ford;Taurus
+38;Large;18;26;Conductor;Trasera;8;4,6;190;4200;1415;No;20;6;212;114;78;43;30;21;3950;Hecho en USA;20,1;20,9;21,7;Ford;Crown_Victoria
+39;Small;46;50;No tiene;Delantera;3;1;55;5700;3755;Si;10,6;4;151;93;63;34;27,5;10;1695;Hecho fuera de USA;6,7;8,4;10;Geo;Metro
+40;Sporty;30;36;Conductor;Delantera;4;1,6;90;5400;3250;Si;12,4;4;164;97;67;37;24,5;11;2475;Hecho fuera de USA;11,5;12,5;13,5;Geo;Storm
+41;Sporty;24;31;Conductor y copiloto;Delantera;4;2,3;160;5800;2855;Si;15,9;4;175;100;70;39;23,5;8;2865;Hecho fuera de USA;17;19,8;22,7;Honda;Prelude
+42;Small;42;46;Conductor;Delantera;4;1,5;102;5900;2650;Si;11,9;4;173;103;67;36;28;12;2350;Hecho fuera de USA;8,4;12,1;15,8;Honda;Civic
+43;Compact;24;31;Conductor y copiloto;Delantera;4;2,2;140;5600;2610;Si;17;4;185;107;67;41;28;14;3040;Hecho fuera de USA;13,8;17,5;21,2;Honda;Accord
+44;Small;29;33;No tiene;Delantera;4;1,5;81;5500;2710;Si;11,9;5;168;94;63;35;26;11;2345;Hecho fuera de USA;6,8;8;9,2;Hyundai;Excel
+45;Small;22;29;No tiene;Delantera;4;1,8;124;6000;2745;Si;13,7;5;172;98;66;36;28;12;2620;Hecho fuera de USA;9;10;11;Hyundai;Elantra
+46;Sporty;26;34;No tiene;Delantera;4;1,5;92;5550;2540;Si;11,9;4;166;94;64;34;23,5;9;2285;Hecho fuera de USA;9,1;10;11;Hyundai;Scoupe
+47;Midsize;20;27;No tiene;Delantera;4;2;128;6000;2335;Si;17,2;5;184;104;69;41;31;14;2885;Hecho fuera de USA;12,4;13,9;15,3;Hyundai;Sonata
+48;Midsize;17;22;Conductor;Trasera;8;4,5;278;6000;1955;No;22,5;5;200;113;72;42;29;15;4000;Hecho fuera de USA;45,4;47,9;50,4;Infiniti;Q45
+49;Midsize;18;24;Conductor;Delantera;6;3;185;5200;2325;Si;18,5;5;188;103;70;40;27,5;14;3510;Hecho fuera de USA;27,5;28;28,4;Lexus;ES300
+50;Midsize;18;23;Conductor y copiloto;Trasera;6;3;225;6000;2510;Si;20,6;4;191;106;71;39;25;9;3515;Hecho fuera de USA;34,7;35,2;35,6;Lexus;SC300
+51;Midsize;17;26;Conductor y copiloto;Delantera;6;3,8;160;4400;1835;No;18,4;6;205;109;73;42;30;19;3695;Hecho en USA;33,3;34,3;35,3;Lincoln;Continental
+52;Large;18;26;Conductor y copiloto;Trasera;8;4,6;210;4600;1840;No;20;6;219;117;77;45;31,5;22;4055;Hecho en USA;34,4;36,1;37,8;Lincoln;Town_Car
+53;Small;29;37;No tiene;Delantera;4;1,6;82;5000;2370;Si;13,2;4;164;97;66;34;27;16;2325;Hecho fuera de USA;7,4;8,3;9,1;Mazda;323
+54;Small;28;36;No tiene;Delantera;4;1,8;103;5500;2220;Si;14,5;5;172;98;66;36;26,5;13;2440;Hecho fuera de USA;10,9;11,6;12,3;Mazda;Protege
+55;Compact;26;34;Conductor;Delantera;4;2,5;164;5600;2505;Si;15,5;5;184;103;69;40;29,5;14;2970;Hecho fuera de USA;14,3;16,5;18,7;Mazda;626
+56;Van;18;24;No tiene;Doble tracción;6;3;155;5000;2240;No;19,6;7;190;110;72;39;27,5;16,67387558;3735;Hecho fuera de USA;16,6;19,1;21,7;Mazda;MPV
+57;Sporty;17;25;Conductor;Trasera;4;1,3;255;6500;2325;Si;20;2;169;96;69;37;17,8;6,440330103;2895;Hecho fuera de USA;32,5;32,5;32,5;Mazda;RX-7
+58;Compact;20;29;Conductor;Trasera;4;2,3;130;5100;2425;Si;14,5;5;175;105;67;34;26;12;2920;Hecho fuera de USA;29;31,9;34,9;Mercedes-Benz;190E
+59;Midsize;19;25;Conductor y copiloto;Trasera;6;3,2;217;5500;2220;No;18,5;5;187;110;69;37;27;15;3525;Hecho fuera de USA;43,8;61,9;80;Mercedes-Benz;300E
+60;Sporty;23;26;Conductor;Delantera;4;1,6;100;5750;2475;Si;11,1;4;166;95;65;36;19;6;2450;Hecho en USA;13,3;14,1;15;Mercury;Capri
+61;Midsize;19;26;No tiene;Trasera;6;3,8;140;3800;1730;No;18;5;199;113;73;38;28;15;3610;Hecho en USA;14,9;14,9;14,9;Mercury;Cougar
+62;Small;29;33;No tiene;Delantera;4;1,5;92;6000;2505;Si;13,2;5;172;98;67;36;26;11;2295;Hecho fuera de USA;7,7;10,3;12,9;Mitsubishi;Mirage
+63;Midsize;18;24;Conductor;Delantera;6;3;202;6000;2210;No;19;5;190;107;70;43;27,5;14;3730;Hecho fuera de USA;22,4;26,1;29,9;Mitsubishi;Diamante
+64;Small;29;33;Conductor;Delantera;4;1,6;110;6000;2435;Si;13,2;5;170;96;66;33;26;12;2545;Hecho fuera de USA;8,7;11,8;14,9;Nissan;Sentra
+65;Compact;24;30;Conductor;Delantera;4;2,4;150;5600;2130;Si;15,9;5;181;103;67;40;28,5;14;3050;Hecho fuera de USA;13;15,7;18,3;Nissan;Altima
+66;Van;17;23;No tiene;Delantera;6;3;151;4800;2065;No;20;7;190;112;74;41;27;15,43149036;4100;Hecho fuera de USA;16,7;19,1;21,5;Nissan;Quest
+67;Midsize;21;26;Conductor;Delantera;6;3;160;5200;2045;No;18,5;5;188;104;69;41;28,5;14;3200;Hecho fuera de USA;21;21,5;22;Nissan;Maxima
+68;Compact;24;31;No tiene;Delantera;4;2,3;155;6000;2380;No;15,2;5;188;103;67;39;28;14;2910;Hecho en USA;13;13,5;14;Oldsmobile;Achieva
+69;Midsize;23;31;Conductor;Delantera;4;2,2;110;5200;2565;No;16,5;5;190;105;70;42;28;16;2890;Hecho en USA;14,2;16,3;18,4;Oldsmobile;Cutlass_Ciera
+70;Van;18;23;No tiene;Delantera;6;3,8;170;4800;1690;No;20;7;194;110;74;44;30,5;17,21743762;3715;Hecho en USA;19,5;19,5;19,5;Oldsmobile;Silhouette
+71;Large;19;28;Conductor;Delantera;6;3,8;170;4800;1570;No;18;6;201;111;74;42;31,5;17;3470;Hecho en USA;19,5;20,7;21,9;Oldsmobile;Eighty-Eight
+72;Sporty;23;30;No tiene;Doble tracción;4;1,8;92;5000;2360;Si;15,9;4;173;97;67;39;24,5;8;2640;Hecho en USA;11,4;14,4;17,4;Plymouth;Laser
+73;Small;31;41;No tiene;Delantera;4;1,6;74;5600;3130;Si;13,2;4;177;99;66;35;25,5;17;2350;Hecho en USA;8,2;9;9,9;Pontiac;LeMans
+74;Compact;23;31;No tiene;Delantera;4;2;110;5200;2665;Si;15,2;5;181;101;66;39;25;13;2575;Hecho en USA;9,4;11,1;12,8;Pontiac;Sunbird
+75;Sporty;19;28;Conductor y copiloto;Trasera;6;3,4;160;4600;1805;Si;15,5;4;196;101;75;43;25;13;3240;Hecho en USA;14;17,7;21,4;Pontiac;Firebird
+76;Midsize;19;27;No tiene;Delantera;6;3,4;200;5000;1890;Si;16,5;5;195;108;72;41;28,5;16;3450;Hecho en USA;15,4;18,5;21,6;Pontiac;Grand_Prix
+77;Large;19;28;Conductor y copiloto;Delantera;6;3,8;170;4800;1565;No;18;6;177;111;74;43;30,5;18;3495;Hecho en USA;19,4;24,4;29,4;Pontiac;Bonneville
+78;Compact;20;26;Conductor;Delantera;4;2,1;140;6000;2910;Si;18;5;184;99;67;37;26,5;14;2775;Hecho fuera de USA;20,3;28,7;37,1;Saab;900
+79;Small;28;38;Conductor;Delantera;4;1,9;85;5000;2145;Si;12,8;5;176;102;68;40;26,5;12;2495;Hecho en USA;9,2;11,1;12,9;Saturn;SL
+80;Small;33;37;No tiene;Doble tracción;3;1,2;73;5600;2875;Si;9,2;4;146;90;60;32;23,5;10;2045;Hecho fuera de USA;7,3;8,4;9,5;Subaru;Justy
+81;Small;25;30;No tiene;Doble tracción;4;1,8;90;5200;3375;Si;15,9;5;175;97;65;35;27,5;15;2490;Hecho fuera de USA;10,5;10,9;11,3;Subaru;Loyale
+82;Compact;23;30;Conductor;Doble tracción;4;2,2;130;5600;2330;Si;15,9;5;179;102;67;37;27;14;3085;Hecho fuera de USA;16,3;19,5;22,7;Subaru;Legacy
+83;Small;39;43;No tiene;Delantera;3;1,3;70;6000;3360;Si;10,6;4;161;93;63;34;27,5;10;1965;Hecho fuera de USA;7,3;8,6;10;Suzuki;Swift
+84;Small;32;37;Conductor;Delantera;4;1,5;82;5200;3505;Si;11,9;5;162;94;65;36;24;11;2055;Hecho fuera de USA;7,8;9,8;11,8;Toyota;Tercel
+85;Sporty;25;32;Conductor;Delantera;4;2,2;135;5400;2405;Si;15,9;4;174;99;69;39;23;13;2950;Hecho fuera de USA;14,2;18,4;22,6;Toyota;Celica
+86;Midsize;22;29;Conductor;Delantera;4;2,2;130;5400;2340;Si;18,5;5;188;103;70;38;28,5;15;3030;Hecho fuera de USA;15,2;18,2;21,2;Toyota;Camry
+87;Van;18;22;Conductor;Doble tracción;4;2,4;138;5000;2515;Si;19,8;7;187;113;71;41;35;17,16057181;3785;Hecho fuera de USA;18,9;22,7;26,6;Toyota;Previa
+88;Small;25;33;No tiene;Delantera;4;1,8;81;5500;2550;Si;12,4;4;163;93;63;34;26;10;2240;Hecho fuera de USA;8,7;9,1;9,5;Volkswagen;Fox
+89;Van;17;21;No tiene;Delantera;5;2,5;109;4500;2915;Si;21,1;7;187;115;72;38;34;15,93268568;3960;Hecho fuera de USA;16,6;19,7;22,7;Volkswagen;Eurovan
+90;Compact;21;30;No tiene;Delantera;4;2;134;5800;2685;Si;18,5;5;180;103;67;35;31,5;14;2985;Hecho fuera de USA;17,6;20;22,4;Volkswagen;Passat
+91;Sporty;18;25;No tiene;Delantera;6;2,8;178;5800;2385;Si;18,5;4;159;97;66;36;26;15;2810;Hecho fuera de USA;22,9;23,3;23,7;Volkswagen;Corrado
+92;Compact;21;28;Conductor;Trasera;4;2,3;114;5400;2215;Si;15,8;5;190;104;67;37;29,5;14;2985;Hecho fuera de USA;21,8;22,7;23,5;Volvo;240
+93;Midsize;20;28;Conductor y copiloto;Delantera;5;2,4;168;6200;2310;Si;19,3;5;184;105;69;38;30;15;3245;Hecho fuera de USA;24,8;26,7;28,5;Volvo;850
